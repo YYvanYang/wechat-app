@@ -54,4 +54,4 @@ function roundedRect(ctx, x, y, width, height, radius) {
 
 ### 结果
 
-![](./img/taylor-swift.jpg)
+![](./img/rect.png)
