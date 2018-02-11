@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  <navigator url="../drawRect/drawRect" open-type="navigate">
+    <button>圆角矩形</button>
+  </navigator>
+</view>

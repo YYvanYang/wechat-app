@@ -1,0 +1,14 @@
+<!--pages/drawRect/drawRect.wxml-->
+<view class="container">
+  <view>
+    <text>方式1</text>
+    <canvas style="width: 200px; height: 200px;border: 1px solid red;margin: 0 auto;" canvas-id="myCanvas1"></canvas>
+  </view>
+
+  <view>
+    <text>方式2</text>
+    <canvas style="width: 200px; height: 200px;border: 1px solid red;margin: 0 auto;" canvas-id="myCanvas2"></canvas>
+  </view>
+</view>
+
+
